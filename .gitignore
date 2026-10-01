@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.backup_*/
+.ui_backup_*/
+*.bak
+*.step6_bak
+.DS_Store

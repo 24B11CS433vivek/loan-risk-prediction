@@ -1,0 +1,99 @@
+age,income,employment_status,education,dependents,loan_amount,loan_term,credit_score,existing_debt,debt_to_income_ratio,previous_defaults,risk_label
+28,45000,Employed,Bachelor,1,15000,36,720,5000,0.22,0,Low
+35,82000,Self-Employed,Master,2,40000,60,680,12000,0.35,0,Low
+52,30000,Unemployed,High School,3,20000,24,580,8000,0.55,1,High
+41,95000,Employed,PhD,0,60000,84,780,15000,0.25,0,Low
+29,27000,Part-Time,Bachelor,1,10000,12,610,3000,0.41,0,Medium
+60,15000,Unemployed,High School,4,5000,12,520,2000,0.6,2,High
+33,58000,Employed,Master,1,25000,48,730,7000,0.28,0,Low
+45,40000,Self-Employed,Bachelor,2,18000,36,650,6000,0.38,1,Medium
+38,72000,Employed,Master,0,35000,60,760,10000,0.26,0,Low
+55,20000,Part-Time,High School,3,8000,24,540,4000,0.58,1,High
+27,35000,Employed,Bachelor,0,12000,24,690,2000,0.2,0,Low
+48,110000,Employed,PhD,1,80000,84,800,20000,0.23,0,Low
+31,42000,Self-Employed,Bachelor,2,16000,36,640,5500,0.36,0,Medium
+57,18000,Unemployed,High School,5,6000,12,510,3500,0.65,3,High
+36,67000,Employed,Master,1,30000,48,740,9000,0.29,0,Low
+43,55000,Employed,Bachelor,2,22000,36,700,7500,0.32,0,Medium
+26,29000,Part-Time,High School,0,8000,12,600,1500,0.3,0,Medium
+50,38000,Self-Employed,Bachelor,3,14000,24,620,6000,0.45,1,High
+34,88000,Employed,PhD,1,55000,72,770,13000,0.24,0,Low
+62,12000,Unemployed,High School,4,4000,12,490,2500,0.7,2,High
+30,51000,Employed,Bachelor,1,20000,36,710,6000,0.27,0,Low
+47,75000,Self-Employed,Master,0,45000,60,750,11000,0.3,0,Low
+25,24000,Part-Time,High School,1,7000,12,590,1800,0.42,0,Medium
+53,32000,Unemployed,Bachelor,3,11000,24,560,5000,0.52,1,High
+39,62000,Employed,Master,2,28000,48,720,8500,0.31,0,Low
+44,48000,Employed,Bachelor,1,19000,36,680,7000,0.35,0,Medium
+32,37000,Self-Employed,Bachelor,2,13000,24,630,4500,0.4,0,Medium
+58,17000,Unemployed,High School,4,5500,12,500,3000,0.63,2,High
+37,79000,Employed,Master,0,40000,60,760,10500,0.26,0,Low
+46,43000,Part-Time,Bachelor,2,15000,24,645,6500,0.42,1,High
+28,53000,Employed,Bachelor,0,22000,36,715,5500,0.24,0,Low
+40,91000,Employed,PhD,1,65000,72,785,16000,0.25,0,Low
+56,22000,Part-Time,High School,3,7000,12,530,4000,0.57,1,High
+33,46000,Self-Employed,Bachelor,1,17000,36,660,5000,0.33,0,Medium
+49,33000,Unemployed,High School,3,10000,24,545,5500,0.56,1,High
+35,70000,Employed,Master,1,32000,48,745,9500,0.28,0,Low
+27,26000,Part-Time,High School,0,6000,12,595,1200,0.32,0,Medium
+51,85000,Employed,PhD,0,58000,72,775,14000,0.24,0,Low
+42,39000,Self-Employed,Bachelor,2,14000,24,635,6000,0.43,1,High
+60,14000,Unemployed,High School,5,4500,12,485,2800,0.68,3,High
+29,48000,Employed,Bachelor,1,18000,36,700,5000,0.27,0,Low
+36,77000,Employed,Master,0,38000,60,755,10000,0.27,0,Low
+54,28000,Unemployed,High School,4,9000,24,550,5500,0.55,2,High
+31,44000,Self-Employed,Bachelor,1,15000,36,655,5000,0.35,0,Medium
+43,98000,Employed,PhD,1,70000,84,790,17000,0.24,0,Low
+26,31000,Part-Time,High School,1,8500,12,605,2000,0.39,0,Medium
+48,57000,Employed,Bachelor,2,24000,48,695,8000,0.34,0,Medium
+38,65000,Employed,Master,0,30000,48,735,9000,0.29,0,Low
+55,19000,Unemployed,High School,4,6500,12,515,3500,0.62,2,High
+32,41000,Self-Employed,Bachelor,2,14500,36,640,5500,0.39,0,Medium
+45,86000,Employed,Master,1,52000,72,765,13500,0.26,0,Low
+30,34000,Part-Time,Bachelor,0,10000,24,620,2500,0.33,0,Medium
+57,16000,Unemployed,High School,5,5000,12,495,3000,0.66,3,High
+34,60000,Employed,Master,1,26000,48,720,7500,0.29,0,Low
+41,50000,Self-Employed,Bachelor,2,18000,36,665,6500,0.36,1,Medium
+28,36000,Employed,Bachelor,0,13000,24,695,3000,0.24,0,Low
+52,105000,Employed,PhD,0,75000,84,795,18000,0.23,0,Low
+46,25000,Part-Time,High School,3,8000,12,535,5000,0.58,1,High
+39,73000,Employed,Master,1,35000,60,748,10000,0.28,0,Low
+33,40000,Self-Employed,Bachelor,2,13500,36,645,5000,0.37,0,Medium
+61,11000,Unemployed,High School,5,4000,12,480,2500,0.72,3,High
+27,28000,Part-Time,High School,0,7500,12,598,1500,0.35,0,Medium
+44,83000,Employed,Master,0,48000,60,770,12500,0.25,0,Low
+50,36000,Self-Employed,Bachelor,3,12000,24,610,6500,0.5,1,High
+37,55000,Employed,Bachelor,1,22000,36,705,7000,0.3,0,Low
+53,21000,Unemployed,High School,4,7000,24,525,5000,0.58,2,High
+29,47000,Employed,Bachelor,1,17500,36,698,5000,0.26,0,Low
+40,90000,Employed,PhD,0,62000,72,782,15500,0.24,0,Low
+35,44000,Self-Employed,Bachelor,2,15500,36,658,5500,0.37,0,Medium
+56,23000,Part-Time,High School,3,7500,12,528,4500,0.6,1,High
+32,52000,Employed,Master,1,21000,36,715,6000,0.27,0,Low
+48,38000,Unemployed,Bachelor,3,11000,24,558,6000,0.53,1,High
+36,69000,Employed,Master,0,33000,48,742,9500,0.28,0,Low
+43,47000,Self-Employed,Bachelor,2,17000,36,662,6500,0.37,1,Medium
+26,27000,Part-Time,High School,1,7000,12,592,1600,0.38,0,Medium
+51,93000,Employed,PhD,1,68000,84,788,16500,0.24,0,Low
+38,61000,Employed,Master,0,28000,48,728,8500,0.29,0,Low
+59,13000,Unemployed,High School,4,4500,12,488,2800,0.7,2,High
+31,43000,Employed,Bachelor,1,16000,36,696,5000,0.27,0,Low
+45,79000,Employed,Master,1,44000,60,758,11500,0.27,0,Low
+54,29000,Self-Employed,Bachelor,3,10000,24,548,6000,0.54,1,High
+28,50000,Employed,Bachelor,0,19500,36,708,5500,0.25,0,Low
+42,35000,Part-Time,High School,2,11000,24,572,5500,0.52,1,High
+34,76000,Employed,Master,1,37000,60,750,10000,0.27,0,Low
+47,42000,Self-Employed,Bachelor,2,15500,36,648,6500,0.4,0,Medium
+30,33000,Part-Time,Bachelor,1,9500,24,615,2800,0.36,0,Medium
+55,18000,Unemployed,High School,4,5500,12,505,3200,0.64,2,High
+39,64000,Employed,Master,0,29000,48,732,9000,0.29,0,Low
+33,49000,Employed,Bachelor,1,19000,36,702,6000,0.28,0,Low
+50,87000,Employed,PhD,0,60000,72,778,14500,0.24,0,Low
+27,25000,Part-Time,High School,0,6500,12,588,1400,0.36,0,Medium
+46,58000,Self-Employed,Master,1,25000,48,718,7500,0.31,0,Low
+41,71000,Employed,Master,1,34000,60,745,9800,0.27,0,Low
+58,15000,Unemployed,High School,5,5000,12,498,3200,0.65,3,High
+36,46000,Employed,Bachelor,2,18000,36,692,6500,0.33,0,Medium
+29,39000,Self-Employed,Bachelor,1,14000,36,652,4500,0.38,0,Medium
+53,26000,Part-Time,High School,3,8500,24,538,5500,0.57,1,High
+44,96000,Employed,PhD,0,68000,84,792,17500,0.24,0,Low
